@@ -1,6 +1,7 @@
 # xBCF - Predicting bioconcentration factor with explainable deep learning
 
-Open source project for predicting logBCF with explanations on SMILES level
+Open source project for predicting logBCF with explanations on SMILES level.
+Find more detailed descriptions of the methodology in our research article: https://doi.org/10.1016/j.ailsci.2022.100047
 
 ## SMILES preprocessing
 Make sure your input SMILES strings fulfill the CDDD requirements, i.e. mono-constituent organic molecules, desalted, and neutralized.
