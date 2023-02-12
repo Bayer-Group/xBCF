@@ -41,6 +41,21 @@ If everything goes well, the last step should print the attribution and predicti
 
 ## Please cite
 
+`Zhao, L., Floriane, M., Heberle, H., & Schmidt, S. (2022). Modeling bioconcentration factors in fish with explainable deep learning. Artificial Intelligence in the Life Sciences, 2, 100047. https://doi.org/10.1016/j.ailsci.2022.100047`
+
+```bibtex
+@article{Zhao_Modeling_bioconcentration_factors_2022,
+author = {Zhao, Linlin and Floriane, Montanari and Heberle, Henry and Schmidt, Sebastian},
+doi = {10.1016/j.ailsci.2022.100047},
+journal = {Artificial Intelligence in the Life Sciences},
+month = {December},
+pages = {100047},
+title = {{Modeling bioconcentration factors in fish with explainable deep learning}},
+volume = {2},
+year = {2022}
+}
+```
+
 
 
 
