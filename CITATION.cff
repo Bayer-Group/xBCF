@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Zhao"
+  given-names: "Linlin"
+  orcid: "https://orcid.org/0000-0001-8086-2812"
+title: "Predicting Bioconcentration Factor with Explainable Deep Learning"
+doi: xxxxx
+date-released: 2022-09-23
+preferred-citation:
+	type: article
+        authors:
+	  - family-names: "Zhao"
+	    given-names: "Linlin"
+	    orcid: "https://orcid.org/0000-0001-8086-2812"
+	  - family-names: "Floriane"
+	    given-names: "Montanari"
+	    orcid: "https://orcid.org/0000-0002-4676-6170"
+	  - family-names: "Heberle"
+	    given-names: "Henry"
+	    orcid: "https://orcid.org/0000-0003-1964-268X"
+	  - family-names: "Schmidt"
+	    given-names: "Sebastian"
+	    orcid: "https://orcid.org/0000-0002-1364-5436"
+	  doi: "10.1016/j.ailsci.2022.100047"
+	  journal: "Artificial Intelligence in the Life Sciences"
+	  month: December
+	  start:  100047
+	  end:  # Last page number
+	  title: "Modeling bioconcentration factors in fish with explainable deep learning"
+	  issue: 
+	  volume: 2
+	  year: 2022
