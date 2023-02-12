@@ -8,12 +8,12 @@ Make sure your input SMILES strings fulfill the CDDD requirements, i.e. mono-con
 
 ## Dependency on CDDD
 
-The models in the project are built upon CDDD embeddings which depends on TF 1.X. The latest Python version supported TF1.X is 3.7
+The models in the project are built upon CDDD embeddings which depends on TF 1.X. The latest Python version supported TF1.X is 3.7. We have adjust all code dependencies to Python 3.7 to better fit different deployment platforms. Therefore, we suggest the following ways to install the CDDD package.  
 
 ### Option I - customized way of using the official CDDD repo
 
 1. Place the CDDD source code under `./src`
-2. Place the CDDD model directory under './models'
+2. Place the CDDD model directory under `./models`
 
 
 ### Option II - an unofficial package
