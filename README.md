@@ -39,7 +39,7 @@ python test.py
 
 If everything goes well, the last step should print the attribution and predictions for two SMILES.
 
-
+## Please cite
 
 
 

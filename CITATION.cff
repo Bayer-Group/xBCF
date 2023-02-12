@@ -5,7 +5,8 @@ authors:
   given-names: "Linlin"
   orcid: "https://orcid.org/0000-0001-8086-2812"
 title: "Predicting Bioconcentration Factor with Explainable Deep Learning"
-doi: xxxxx
+doi: 10.1016/j.ailsci.2022.100047
+url: "https://doi.org/10.1016/j.ailsci.2022.100047"
 date-released: 2022-09-23
 preferred-citation:
 	type: article
