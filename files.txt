@@ -1,2 +1,0 @@
-models/final_cddd512_rdkit_linear.pkl
-models/final_cddd512_rdkit_svr.pkl
