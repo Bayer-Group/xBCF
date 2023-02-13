@@ -25,6 +25,10 @@ The script `src/attributor.py` works with both ways of setting up CDDD, make sur
 
 For any questions, feel free to open issues.
 
+## Model availability
+Our MTL model as reported in our paper cannot be published due to the inclusion of internal secret data in the training set. 
+Nevertheless, an SVR model with good performance is published in the repo. And a linear regression model is also available as a simple baseline. 
+
 ## Usage
 
 The code has been tested with Python 3.7 
@@ -38,8 +42,10 @@ source ./bcf_env/bin/activate
 pip install -r requirements.txt
 python test.py
 ```
-
 If everything goes well, the last step should print the attribution and predictions for two SMILES.
+
+
+
 
 ## Please cite
 
