@@ -18,10 +18,12 @@ The models in the project are built upon CDDD embeddings which depends on TF 1.X
 
 ### Option II - an unofficial package
 
-In this sister [repo](https://github.com/Bayer-Group/xsmiles-use-cases), an official `.whl` file was packed with the CDDD source code and the default CDDD model. 
-Please refer to the repo for installation. And use this installation method at your risk. 
+In this sister [repo](https://github.com/Bayer-Group/xsmiles-use-cases), an unofficial `.whl` file was packed with the CDDD source code and the default CDDD model. 
+Please refer to the repo for installation. And use this installation method at your own risk. 
 
 The script `src/attributor.py` works with both ways of setting up CDDD, make sure you modify `src/xbcf.py` accordingly.
+
+For any questions, feel free to open issues.
 
 ## Usage
 
